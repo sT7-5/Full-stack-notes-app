@@ -1,0 +1,7 @@
+jwt = JSON web token
+
+allows you to securely transfer data (as JSON data) between people 
+client can login and receive a token from backend server.
+token contains the claims with the user's permissions for the site (what they can do).
+JWT token should not be stored in local storage or session data. should be stored in secure location in user's browser
+When JWT token expires, user may have to login to get a new token or use their refresh token to generate a new token
