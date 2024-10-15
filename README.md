@@ -16,7 +16,9 @@ This project allows users to create an account, login, then create and save note
 11. Create a new account and then login to begin creating notes.
 
 ## Thing to note
-if you done the installation steps above and then closed the project and terminals but then want to re-run the project this is what you will have to re-do steps 3->10 again
+If you done the installation steps above and then closed the project and terminals but then want to re-run the project this is what you will have to re-do steps 3->10 again
+
+Alternatively if you had a code editor such as VS code, you could load the project in the code editor and then use the terminal in editor. By doing this, if you had handled the installation process and then wished to re-run the project after closing/ending it, you don't have to re-do steps 3-10 using the code editor's terminal. Instead, you will only have to do steps 9->10 provided that you have created 2 terminals that are in the correct directories. A code editor will usually remember the virtual environment thus preventing you from having to re-create the environment and installing the dependecies.
 
 
 
