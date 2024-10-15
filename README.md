@@ -13,6 +13,10 @@ This project allows users to create an account, login, then create and save note
 7. Next, create another terminal and then cd into the frontend directory of the project. Here, run the command 'npm install'.
 9. In the second terminal that is in the frontend directory run the command 'npm run dev' and in the first terminal that is in the backend directory, run the command 'python manage.py runserver' remembering to replace 'python' with 'python3' if you are on windows.
 10. Now the project is up and running. In the second terminal, there will be a local host assigned e.g. 'Local:   http://localhost:5173/'. In a web browser load up that url or just simply hold cmd and click on the url in the terminal. Now you can being using the project.
-11. Create a new account and then login to begin creating notes. 
+11. Create a new account and then login to begin creating notes.
+
+## Thing to note
+if you done the installation steps above and then closed the project and terminals but then want to re-run the project this is what you will have to re-do steps 3->10 again
+
 
 
